@@ -1,10 +1,10 @@
 {
-  "name": "antigravity-kit",
-  "version": "2.0.0",
-  "description": "AI Agent templates - Skills, Agents, and Workflows for enhanced coding assistance",
+  "name": "@metaverse-dc/antigravity-kit",
+  "version": "1.0.0",
+  "description": "AI Agent templates - Skills, Agents, and Workflows for enhanced coding assistance \u2014 Fork by Metaverse Digital Creative.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vudovn/antigravity-kit.git"
+    "url": "git+https://github.com/metaverse-digital-creative/antigravity-kit.git"
   },
   "homepage": "https://github.com/vudovn/antigravity-kit#readme",
   "bugs": {
@@ -19,5 +19,8 @@
     "templates"
   ],
   "author": "vudovn",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
