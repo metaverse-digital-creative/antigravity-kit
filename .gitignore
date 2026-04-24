@@ -4,3 +4,6 @@ node_modules/
 antigravity-doc
 tests
 others
+
+__pycache__/
+*.pyc
